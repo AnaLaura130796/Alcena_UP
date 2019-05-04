@@ -22,7 +22,7 @@ namespace proyectoAlacena
 
         private void buscarModificaciones()
         {
-            string queryNoModificados = "SELECT¨* FROM lu_producto WHERE modificado =0";
+            string queryNoModificados = "SELECT * FROM lu_producto WHERE modificado =0";
             DataTable tablanomodificados = DataBase.runSelectQuery(queryNoModificados);
             if (tablanomodificados == null)
                 return;
@@ -36,7 +36,7 @@ namespace proyectoAlacena
 
         private void button_consulta_Click(object sender, EventArgs e)
         {
-            string query_consulta = "SELECT a.nombre, b.tipo, a.fechaEntrada FROM lu_producto a INNER JOIN tipo_alimento b ON b.id = a.id_tipo";
+            string query_consulta = "SELECT * FROM lu_producto";
             FormVerInventario ventanaInvenatrio = new FormVerInventario(query_consulta);
             ventanaInvenatrio.ShowDialog();
         }

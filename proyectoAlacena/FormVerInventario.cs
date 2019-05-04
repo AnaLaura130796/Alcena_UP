@@ -36,7 +36,7 @@ namespace proyectoAlacena
                 guardarbindingInicial();
                 //Quitamos las columnas de configuración. 
                 dataGridViewInventario.Columns["modificado"].Visible = false;
-                dataGridViewInventario.Columns["id_tipo"].Visible = false;
+               // dataGridViewInventario.Columns["id_tipo"].Visible = false;
             }
         }
         private void guardarbindingInicial()
