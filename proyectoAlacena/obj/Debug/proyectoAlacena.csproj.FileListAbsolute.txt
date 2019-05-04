@@ -1,0 +1,10 @@
+C:\Users\PMM\Documents\Ana\proyectoAlacena\proyectoAlacena\bin\Debug\proyectoAlacena.exe.config
+C:\Users\PMM\Documents\Ana\proyectoAlacena\proyectoAlacena\bin\Debug\proyectoAlacena.exe
+C:\Users\PMM\Documents\Ana\proyectoAlacena\proyectoAlacena\bin\Debug\proyectoAlacena.pdb
+C:\Users\PMM\Documents\Ana\proyectoAlacena\proyectoAlacena\obj\Debug\proyectoAlacena.csprojResolveAssemblyReference.cache
+C:\Users\PMM\Documents\Ana\proyectoAlacena\proyectoAlacena\obj\Debug\proyectoAlacena.Properties.Resources.resources
+C:\Users\PMM\Documents\Ana\proyectoAlacena\proyectoAlacena\obj\Debug\proyectoAlacena.csproj.GenerateResource.Cache
+C:\Users\PMM\Documents\Ana\proyectoAlacena\proyectoAlacena\obj\Debug\proyectoAlacena.exe
+C:\Users\PMM\Documents\Ana\proyectoAlacena\proyectoAlacena\obj\Debug\proyectoAlacena.pdb
+C:\Users\PMM\Documents\Ana\proyectoAlacena\proyectoAlacena\obj\Debug\proyectoAlacena.FormPrincipal.resources
+C:\Users\PMM\Documents\Ana\proyectoAlacena\proyectoAlacena\obj\Debug\proyectoAlacena.FormVerInventario.resources
